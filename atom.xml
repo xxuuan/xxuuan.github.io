@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://01xuan10.github.io/</id>
-    <title>01xuan10</title>
+    <id>https://xxuuan.github.io/</id>
+    <title>xxuuan</title>
     <updated>2024-10-11T06:16:43.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://01xuan10.github.io/"/>
-    <link rel="self" href="https://01xuan10.github.io/atom.xml"/>
-    <logo>https://01xuan10.github.io/images/avatar.png</logo>
-    <icon>https://01xuan10.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2024, 01xuan10</rights>
+    <link rel="alternate" href="https://xxuuan.github.io/"/>
+    <link rel="self" href="https://xxuuan.github.io/atom.xml"/>
+    <logo>https://xxuuan.github.io/images/avatar.png</logo>
+    <icon>https://xxuuan.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, xxuuan</rights>
     <entry>
         <title type="html"><![CDATA[关于arm ida9.0 crack之后无法正常打开的问题]]></title>
-        <id>https://01xuan10.github.io/40Y3sWU3hJ/</id>
-        <link href="https://01xuan10.github.io/40Y3sWU3hJ/">
+        <id>https://xxuuan.github.io/40Y3sWU3hJ/</id>
+        <link href="https://xxuuan.github.io/40Y3sWU3hJ/">
         </link>
         <updated>2024-10-11T06:13:01.000Z</updated>
         <content type="html"><![CDATA[<p><code>rm /Applications/IDA\ Professional\ 9.0.app/Contents/MacOS/plugins/arm_mac_user64.dylib</code><br>
@@ -24,8 +24,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[密码相关硬件设备作用]]></title>
-        <id>https://01xuan10.github.io/dsMibABzv/</id>
-        <link href="https://01xuan10.github.io/dsMibABzv/">
+        <id>https://xxuuan.github.io/dsMibABzv/</id>
+        <link href="https://xxuuan.github.io/dsMibABzv/">
         </link>
         <updated>2023-04-03T01:20:09.000Z</updated>
         <content type="html"><![CDATA[<h2 id="服务器密码机">服务器密码机</h2>
@@ -74,15 +74,15 @@ PKI为保护通信有两件事
 <p>IPsec SA建立成功后，双方就可以通过IPsec隧道传输数据了。<br>
 IPsec为了保证数据传输的安全性，在这一阶段需要通过AH或ESP协议对数据进行加密和验证。加密机制保证了数据的机密性，防止数据在传输过程中被窃取；验证机制保证了数据的真实可靠，防止数据在传输过程中被仿冒和篡改。</p>
 <p>如图所示，IPsec发送方会使用加密算法和加密密钥对报文进行加密，即将原始数据“乔装打扮”封装起来。然后发送方和接收方分别通过相同的验证算法和验证密钥对加密后的报文进行处理得到完整性校验值ICV。如果两端计算的ICV相同则表示该报文在传输过程中没有被篡改，接收方对验证通过的报文进行解密处理；如果ICV不相同则直接丢弃报文。<br>
-<img src="https://01xuan10.github.io//post-images/1680505742287.png" alt="" loading="lazy"></p>
+<img src="https://xxuuan.github.io//post-images/1680505742287.png" alt="" loading="lazy"></p>
 <h4 id="隧道拆除">隧道拆除</h4>
 <p>通常情况下，通信双方之间的会话老化（连接断开）即代表通信双方数据交换已经完成，因此为了节省系统资源，通信双方之间的隧道在空闲时间达到一定值后会自动删除。</p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[010editor 保持试用]]></title>
-        <id>https://01xuan10.github.io/dErCuV0k8/</id>
-        <link href="https://01xuan10.github.io/dErCuV0k8/">
+        <id>https://xxuuan.github.io/dErCuV0k8/</id>
+        <link href="https://xxuuan.github.io/dErCuV0k8/">
         </link>
         <updated>2023-02-09T01:38:09.000Z</updated>
         <content type="html"><![CDATA[<h2 id="保持试用">保持试用</h2>
@@ -106,8 +106,8 @@ IPsec为了保证数据传输的安全性，在这一阶段需要通过AH或ESP�
     </entry>
     <entry>
         <title type="html"><![CDATA[2022 CTF WriteUp]]></title>
-        <id>https://01xuan10.github.io/FQ-sJl0v2/</id>
-        <link href="https://01xuan10.github.io/FQ-sJl0v2/">
+        <id>https://xxuuan.github.io/FQ-sJl0v2/</id>
+        <link href="https://xxuuan.github.io/FQ-sJl0v2/">
         </link>
         <updated>2022-11-09T14:57:47.000Z</updated>
         <content type="html"><![CDATA[<h2 id="签到">签到</h2>
@@ -116,66 +116,66 @@ IPsec为了保证数据传输的安全性，在这一阶段需要通过AH或ESP�
 flag{12a14364-e270-c652-f8b7-b7aaf237214e}</p>
 <h3 id="test02">test02</h3>
 <p>打开环境直接访问web<br>
-<img src="https://01xuan10.github.io//post-images/1667574521423.png" alt="" loading="lazy"><br>
+<img src="https://xxuuan.github.io//post-images/1667574521423.png" alt="" loading="lazy"><br>
 flag{376b8725-7f94-6696-a67a-f6e631b7116b}</p>
 <h3 id="签到-2">签到</h3>
 <p>启动环境后，打开页面，没有发现flag，直接查看网页源代码发现flag<br>
-<img src="https://01xuan10.github.io//post-images/1667889143373.png" alt="" loading="lazy"></p>
+<img src="https://xxuuan.github.io//post-images/1667889143373.png" alt="" loading="lazy"></p>
 <h2 id="misc">misc</h2>
 <h3 id="im-et">I'm ET</h3>
 <p>使用binwalk分析有没有隐藏文件发现没有隐藏文件，所以用stegsolve打开，发现blue0通道有一个提示<br>
-<img src="https://01xuan10.github.io//post-images/1667888580736.png" alt="" loading="lazy"><br>
+<img src="https://xxuuan.github.io//post-images/1667888580736.png" alt="" loading="lazy"><br>
 用010Editor打开文件，这里因为mac版报错所以改用Windows虚拟机，发现HEX中文件头中标识bmp文件为32位，但是下方的模版结果为24位，所以将这个值改为32位<br>
-<img src="https://01xuan10.github.io//post-images/1667888765408.png" alt="" loading="lazy"><br>
+<img src="https://xxuuan.github.io//post-images/1667888765408.png" alt="" loading="lazy"><br>
 然后继续使用stegsolve打开查看之前提示blue0的通道，在Data Extract中发现了PK关键字，这是zip文件的文件头<br>
-<img src="https://01xuan10.github.io//post-images/1667888876733.png" alt="" loading="lazy"><br>
+<img src="https://xxuuan.github.io//post-images/1667888876733.png" alt="" loading="lazy"><br>
 将这个zip文件单独提取出来，解压发现有密码，用010Editor查看发现为zip伪加密，将HEX改为00<br>
-<img src="https://01xuan10.github.io//post-images/1667888983650.png" alt="" loading="lazy"><br>
+<img src="https://xxuuan.github.io//post-images/1667888983650.png" alt="" loading="lazy"><br>
 解压得到flag</p>
 <h3 id="wwin">WWIN</h3>
 <p>下载并解压附件之后用wireshark打开<br>
-<img src="https://01xuan10.github.io//post-images/1667888177601.png" alt="" loading="lazy"><br>
+<img src="https://xxuuan.github.io//post-images/1667888177601.png" alt="" loading="lazy"><br>
 追踪流和搜索flag字段都没有结果，所以打开导出html文件发现有一条记录比其他的大<br>
-<img src="https://01xuan10.github.io//post-images/1667888248117.png" alt="" loading="lazy"><br>
+<img src="https://xxuuan.github.io//post-images/1667888248117.png" alt="" loading="lazy"><br>
 下载后用浏览器打开发现有一条<code>echo</code>文件的记录<br>
-<img src="https://01xuan10.github.io//post-images/1667888418125.png" alt="" loading="lazy"><br>
+<img src="https://xxuuan.github.io//post-images/1667888418125.png" alt="" loading="lazy"><br>
 使用base64解码后得到flag</p>
 <h3 id="find_you_flag">find_you_flag</h3>
 <p>用<code>binwalk flag</code>发现文件中有iso9660文件，以为是需要挂载Linux然后进行下一步分析<br>
-<img src="https://01xuan10.github.io//post-images/1667613482400.png" alt="" loading="lazy"><br>
+<img src="https://xxuuan.github.io//post-images/1667613482400.png" alt="" loading="lazy"><br>
 将文件分离出现了一个<code>E62EC.iso</code>文件，但是用Linux挂载和软碟通软件均无法读取。<br>
 没有头绪的时候又开始使用010Editor开始分析，搜索flag发现4001个，结果太多，无法甄别，感觉应该不是这个方向分析。<br>
-<img src="https://01xuan10.github.io//post-images/1667613827277.png" alt="" loading="lazy"><br>
+<img src="https://xxuuan.github.io//post-images/1667613827277.png" alt="" loading="lazy"><br>
 然后通过翻阅资料最终感觉是一道考内存取证的题目，安装<code>volatility</code>，是一款开源内存取证框架，能够对导出的内存镜像进行分析，通过获取内核数据结构，使用插件获取内存的详细情况以及系统的运行状态。<br>
 使用<code>volatility -f flag imageinfo</code>查看镜像信息，其中可以看到软件猜测的系统版本为<code>WinXPSP2x86</code><br>
-<img src="https://01xuan10.github.io//post-images/1667614234021.png" alt="" loading="lazy"><br>
+<img src="https://xxuuan.github.io//post-images/1667614234021.png" alt="" loading="lazy"><br>
 然后使用<code>volatility -f flag --profile=WinXPSP2x86 pslist</code>查看内存中运行的程序，发现中间有<code>ctfmon.exe</code>,<code>cmd.exe</code>起初怀疑这两个程序内存中有相关线索<br>
-<img src="https://01xuan10.github.io//post-images/1667614384639.png" alt="" loading="lazy"><br>
+<img src="https://xxuuan.github.io//post-images/1667614384639.png" alt="" loading="lazy"><br>
 可以使用<code>volatility -f flag --profile=WinXPSP2x86 memdump -p PID号 --dump-dir=./</code>将内存dump出来，放入010Editor中分析，大小均达到八九十兆，所以也放弃了<br>
 然后使用<code>volatility -f flag --profile=WinXPSP2x86 filescan | grep flag</code>进行文件搜索，然后过滤关键字flag，发现桌面上有flag.7z文件<br>
-<img src="https://01xuan10.github.io//post-images/1667615271239.png" alt="" loading="lazy"><br>
+<img src="https://xxuuan.github.io//post-images/1667615271239.png" alt="" loading="lazy"><br>
 使用<code>volatility -f flag --profile=WinXPSP2x86 dumpfiles -Q 0x0000000001609628 --dump-dir=./</code>命令dump出flag.7z文件<br>
-<img src="https://01xuan10.github.io//post-images/1667615526100.png" alt="" loading="lazy"><br>
+<img src="https://xxuuan.github.io//post-images/1667615526100.png" alt="" loading="lazy"><br>
 打开文件发现文件头是7z，和桌面的文件名符合所以直接将dump下的文件名后缀改为7z<br>
-<img src="https://01xuan10.github.io//post-images/1667616017242.png" alt="" loading="lazy"><br>
+<img src="https://xxuuan.github.io//post-images/1667616017242.png" alt="" loading="lazy"><br>
 使用压缩软件发现需要解压密码<br>
-<img src="https://01xuan10.github.io//post-images/1667616115438.png" alt="" loading="lazy"><br>
+<img src="https://xxuuan.github.io//post-images/1667616115438.png" alt="" loading="lazy"><br>
 所以现在的难点是开始寻找解压密码，回过头翻了以下pslist，发现里面有<code>explorer.exe</code>资源管理器，怀疑里面应该有线索，但是突然发现可以读取剪贴板，所以打算先读取剪贴板看一下，如果没有线索就dump文件资源管理器<br>
 使用<code>volatility -f flag --profile=WinXPSP2x86 clipboard</code>读取剪贴板，发现有一条有数据的记录<br>
-<img src="https://01xuan10.github.io//post-images/1667616662748.png" alt="" loading="lazy"><br>
+<img src="https://xxuuan.github.io//post-images/1667616662748.png" alt="" loading="lazy"><br>
 使用该记录当作解压密码然后成功解压出flag.txt<br>
-<img src="https://01xuan10.github.io//post-images/1667617050209.png" alt="" loading="lazy"><br>
+<img src="https://xxuuan.github.io//post-images/1667617050209.png" alt="" loading="lazy"><br>
 flag{Th1s_1s_2oo_4a3y}</p>
 <h2 id="reverse">reverse</h2>
 <h3 id="1000click">1000click</h3>
 <p>ida64打开直接字符串搜索flag<br>
-<img src="https://01xuan10.github.io//post-images/1667574394127.png" alt="" loading="lazy"><br>
+<img src="https://xxuuan.github.io//post-images/1667574394127.png" alt="" loading="lazy"><br>
 flag{TIBntXVbdZ4Z9VRtoOQ2wRlvDNIjQ8Ra}</p>
 <h3 id="xxxorrr">xxxorrr</h3>
 <p>ida64打开，字符串表看一下有没有什么线索<br>
-<img src="https://01xuan10.github.io//post-images/1667574644942.png" alt="" loading="lazy"><br>
+<img src="https://xxuuan.github.io//post-images/1667574644942.png" alt="" loading="lazy"><br>
 猜测这串字符跟flag有关，查看引用<br>
-<img src="https://01xuan10.github.io//post-images/1667574704138.png" alt="" loading="lazy"><br>
+<img src="https://xxuuan.github.io//post-images/1667574704138.png" alt="" loading="lazy"><br>
 有三个函数引用了，逐个查看</p>
 <pre><code>unsigned __int64 sub_84A()
 {
@@ -235,8 +235,8 @@ for i in range(0,33):
     </entry>
     <entry>
         <title type="html"><![CDATA[Java反序列化学习-shiro]]></title>
-        <id>https://01xuan10.github.io/java-fan-xu-lie-hua-xue-xi-shiro/</id>
-        <link href="https://01xuan10.github.io/java-fan-xu-lie-hua-xue-xi-shiro/">
+        <id>https://xxuuan.github.io/java-fan-xu-lie-hua-xue-xi-shiro/</id>
+        <link href="https://xxuuan.github.io/java-fan-xu-lie-hua-xue-xi-shiro/">
         </link>
         <updated>2022-10-27T08:23:51.000Z</updated>
         <content type="html"><![CDATA[<h2 id="java反序列化简介">Java反序列化简介</h2>
@@ -293,9 +293,9 @@ public class Test {
 }
 </code></pre>
 <p>运行可以看到已经成功序列化和反序列化<br>
-<img src="https://01xuan10.github.io//post-images/1667374542694.png" alt="" loading="lazy"><br>
+<img src="https://xxuuan.github.io//post-images/1667374542694.png" alt="" loading="lazy"><br>
 打开People.txt可以看到被序列化到文件里面的内容<br>
-<img src="https://01xuan10.github.io//post-images/1667374632370.png" alt="" loading="lazy"><br>
+<img src="https://xxuuan.github.io//post-images/1667374632370.png" alt="" loading="lazy"><br>
 然后在People.txt中加入一下方法，重写People类的readObject()方法</p>
 <pre><code>    //添加以下方法，重写People类的readObject()方法
     private void readObject(java.io.ObjectInputStream in) throws IOException, ClassNotFoundException{
@@ -306,7 +306,7 @@ public class Test {
     }
 </code></pre>
 <p>然后重新运行Test.java可以看到我们重写的方法已经生效，成功的在反序列化的过程中打开了本地的计算器软件<br>
-<img src="https://01xuan10.github.io//post-images/1667374934215.png" alt="" loading="lazy"></p>
+<img src="https://xxuuan.github.io//post-images/1667374934215.png" alt="" loading="lazy"></p>
 <h2 id="分析shiro反序列化漏洞cve-2016-4437">分析Shiro反序列化漏洞（CVE-2016-4437）</h2>
 <h3 id="apache-shiro介绍">apache shiro介绍</h3>
 <p>Apache Shiro是一个开源安全框架，提供身份验证、授权、密码学和会话管理。在Apache Shiro &lt;= 1.2.4版本中存在反序列化漏洞。</p>
@@ -329,12 +329,12 @@ public class Test {
  &lt;dependency&gt;
 </code></pre>
 <p>倒入项目，等待idea自动下载倒入项目依赖包，接着设置<code>run/debug configurations</code>,添加本地tomcat环境<br>
-<img src="https://01xuan10.github.io//post-images/1668581439785.png" alt="" loading="lazy"></p>
+<img src="https://xxuuan.github.io//post-images/1668581439785.png" alt="" loading="lazy"></p>
 <h3 id="漏洞debug">漏洞debug</h3>
 <p>首先定位RememberMe值的加密过程。在<code>org.apache.shiro.mgt.AbstractRememberMeManager#onSuccessfulLogin</code>处下断点，然后点击debug开启tomcat服务<br>
-<img src="https://01xuan10.github.io//post-images/1668581920055.png" alt="" loading="lazy"><br>
+<img src="https://xxuuan.github.io//post-images/1668581920055.png" alt="" loading="lazy"><br>
 使用任意账号登陆系统，但是一定要记得勾选RememberMe选项，程序执行到断点处就会停止<br>
-<img src="https://01xuan10.github.io//post-images/1668582068724.png" alt="" loading="lazy"></p>
+<img src="https://xxuuan.github.io//post-images/1668582068724.png" alt="" loading="lazy"></p>
 <pre><code>    public void onSuccessfulLogin(Subject subject, AuthenticationToken token, AuthenticationInfo info) {
         this.forgetIdentity(subject);  //处理request和response常规字段，包括生成cookie
         if (this.isRememberMe(token)) {    //判断是否勾选RememberMe
@@ -346,13 +346,13 @@ public class Test {
     }
 </code></pre>
 <p>首先调用forgetIdentity构造方法来处理request和response请求，包括在response中加入cookie信息，然后调用rememberIdentity函数，来处理cookie中的remember字段<br>
-<img src="https://01xuan10.github.io//post-images/1668582676082.png" alt="" loading="lazy"></p>
+<img src="https://xxuuan.github.io//post-images/1668582676082.png" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[免杀和CS服务器隐藏<入门>]]></title>
-        <id>https://01xuan10.github.io/mian-sha-he-cs-fu-wu-qi-yin-cang-lessru-men-greater/</id>
-        <link href="https://01xuan10.github.io/mian-sha-he-cs-fu-wu-qi-yin-cang-lessru-men-greater/">
+        <id>https://xxuuan.github.io/mian-sha-he-cs-fu-wu-qi-yin-cang-lessru-men-greater/</id>
+        <link href="https://xxuuan.github.io/mian-sha-he-cs-fu-wu-qi-yin-cang-lessru-men-greater/">
         </link>
         <updated>2022-10-27T02:05:27.000Z</updated>
         <content type="html"><![CDATA[<h2 id="检测手段">检测手段</h2>
@@ -438,8 +438,8 @@ java -XX:ParallelGCThreads=4 -Dcobaltstrike.server_port=50050 -Dcobaltstrike.ser
     </entry>
     <entry>
         <title type="html"><![CDATA[CTF杂项之图片]]></title>
-        <id>https://01xuan10.github.io/CReWZ5fvY/</id>
-        <link href="https://01xuan10.github.io/CReWZ5fvY/">
+        <id>https://xxuuan.github.io/CReWZ5fvY/</id>
+        <link href="https://xxuuan.github.io/CReWZ5fvY/">
         </link>
         <updated>2022-10-27T01:28:22.000Z</updated>
         <content type="html"><![CDATA[<h2 id="杂项中图片题的想法">杂项中图片题的想法</h2>
@@ -447,35 +447,35 @@ java -XX:ParallelGCThreads=4 -Dcobaltstrike.server_port=50050 -Dcobaltstrike.ser
 <h2 id="单纯为了隐藏文件">单纯为了隐藏文件</h2>
 <p>一般情况下拿到图片题如果没有特别明确的提示，常使用的就是先使用binwalk命令来查看图片有没有什么隐藏文件。<br>
 以这道题为例，题目的名字叫锦囊妙计，提供了3个锦囊并且题目提示依次打开三个锦囊，很明显是一个wifi链接的握手包，并且题目中提供了握手包的爆破字典，但是没有提供握手包，所以怀疑最后面的cap.png文件中含有我们需要爆破的握手包。<br>
-<img src="https://01xuan10.github.io//post-images/1668734978811.png" alt="" loading="lazy"><br>
+<img src="https://xxuuan.github.io//post-images/1668734978811.png" alt="" loading="lazy"><br>
 故用binwalk查看文件信息,可以看到文件信息的第三行有一个li bpcap capture file。<br>
-<img src="https://01xuan10.github.io//post-images/1668735017613.png" alt="" loading="lazy"><br>
+<img src="https://xxuuan.github.io//post-images/1668735017613.png" alt="" loading="lazy"><br>
 然后我们可以用dd命令将这个文件分离出来<br>
-<img src="https://01xuan10.github.io//post-images/1668735028078.png" alt="" loading="lazy"><br>
+<img src="https://xxuuan.github.io//post-images/1668735028078.png" alt="" loading="lazy"><br>
 接着使用爆破的工具对握手包进行爆破就可以得到最终的flag了。</p>
 <h2 id="隐藏文件的同时提供一些题目信息">隐藏文件的同时提供一些题目信息</h2>
 <p>以上是图片的用处只是作为一个文件的载体作为迷惑做题者的用处，但是图片也可以结合图片隐写作为题目的一个要素出现。<br>
 比如说这道题题目是八只鸟，附了一张图打开里面只有五只鸟，所以考虑是不是通过图片的信息隐藏了一部分图片导致图片文件显示不全。<br>
-<img src="https://01xuan10.github.io//post-images/1668735043476.png" alt="" loading="lazy"><br>
+<img src="https://xxuuan.github.io//post-images/1668735043476.png" alt="" loading="lazy"><br>
 使用010Editor编辑器对文件头信息进行修改。先查看文件的基本信息中的宽高，比如题中的图片高度为543，转换为16进制的高度为021F，	然后就直接在010Editor中搜索这个16进制然后修改大一点就可以显示全部的图片了。<br>
-<img src="https://01xuan10.github.io//post-images/1668735053614.png" alt="" loading="lazy"><br>
-<img src="https://01xuan10.github.io//post-images/1668735060806.png" alt="" loading="lazy"><br>
-<img src="https://01xuan10.github.io//post-images/1668735078729.png" alt="" loading="lazy"><br>
+<img src="https://xxuuan.github.io//post-images/1668735053614.png" alt="" loading="lazy"><br>
+<img src="https://xxuuan.github.io//post-images/1668735060806.png" alt="" loading="lazy"><br>
+<img src="https://xxuuan.github.io//post-images/1668735078729.png" alt="" loading="lazy"><br>
 可以看到显示了一段不是flag的字符，然后用压缩软件打开图片使用该段字符作为解压缩的密码就可以解压出flag.txt了。</p>
 <h2 id="其他的一些隐藏方式">其他的一些隐藏方式</h2>
 <p>这样就引申出了许多文件头隐藏信息的方式，例如将有效信息直接放在图片基础信息字段之后。<br>
-<img src="https://01xuan10.github.io//post-images/1668735098439.jpeg" alt="" loading="lazy"><br>
+<img src="https://xxuuan.github.io//post-images/1668735098439.jpeg" alt="" loading="lazy"><br>
 还有些题通过修改文件头信息让操作系统不能正确识别文件类型达到无法打开解析的目的，网上可以搜到很多的文件格式的文件头标识<a href="https://blog.csdn.net/ccj2020/article/details/87603903">https://blog.csdn.net/ccj2020/article/details/87603903</a>。<br>
 或者利用exif信息来隐藏信息：<br>
-<img src="https://01xuan10.github.io//post-images/1668735109936.jpeg" alt="" loading="lazy"></p>
+<img src="https://xxuuan.github.io//post-images/1668735109936.jpeg" alt="" loading="lazy"></p>
 <h2 id="双图问题">双图问题</h2>
 <p>还有一种比较典型的双图片的题目，也是利用RGB图层更改的方式来隐藏信息,通常会给出两张肉眼无法区分的图片，放入stegslove中进行RGB图层处理，在SUB(R,G,B separate)发现了一张模糊二维码：<br>
 例如攻防世界的进阶题中有一道a_goog_idea,题目给了一个压缩包，解压后是一张tom的图片，然后使用foremost将图片中隐藏的压缩包自动分离出来，解压后是两张一模一样的图片，且有一个文本提示：<br>
-<img src="https://01xuan10.github.io//post-images/1668735121496.png" alt="" loading="lazy"><br>
+<img src="https://xxuuan.github.io//post-images/1668735121496.png" alt="" loading="lazy"><br>
 使用stegslove将两张图片合并，但是只能看到零星的红色的小点，<br>
-<img src="https://01xuan10.github.io//post-images/1668735135020.png" alt="" loading="lazy"><br>
+<img src="https://xxuuan.github.io//post-images/1668735135020.png" alt="" loading="lazy"><br>
 转换一下色道可以得到一张二维码，扫描二维码即可得到flag<br>
-<img src="https://01xuan10.github.io//post-images/1668735146691.png" alt="" loading="lazy"></p>
+<img src="https://xxuuan.github.io//post-images/1668735146691.png" alt="" loading="lazy"></p>
 <h2 id="瞎扯">瞎扯</h2>
 <p>当然还有很多的典型的题型还没有涉及到，之后遇到再做补充</p>
 ]]></content>
